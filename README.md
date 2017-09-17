@@ -2,7 +2,7 @@
 
 A script for downloading PEPs.
 
-I was going to start reading PEP 0008 uhh *looks at watch* like 4 hours ago but I kinda wished they were available as PDFs but without the extra rubbish intended for websites.
+I was going to start reading PEP 0008 uhh **_looks at the time_** like 2 hours ago but I kinda wished they were available as PDFs but without the extra rubbish intended for websites.
 
 PDFs also like to strip out a lot of the nice styling which, I dunno, I quite like the Python CSS.
 
@@ -28,4 +28,4 @@ Replace `python3` (and pip3) with whatever your Python 3 install is named. For L
 
 Yeahhhh, I did see that. The plain text was ok but it didn't feel as nice to read as the PEPs on the site which is just me being needlessly picky. It did also allow generation of HTML but the styles seemed all wonky and not like what I was expecting.
 
-I figured it was just as quick to whip up something of my own, plus it meant getting more Python practice in 😎
+I figured it was just as quick to whip up something of my own, plus it meant getting more Python practice in 😎 I fiddled with PDF creation (which wouldn't render any of the text for some reason) and a few other things so I learn a bit along the way. Definitely would have been more efficient to just read the plain text but that's too easyyyy
